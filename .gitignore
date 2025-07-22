@@ -1,0 +1,10 @@
+# Project place file
+/gpgrecode.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+Packages/
+sourcemap.json
+wally.lock
